@@ -6,13 +6,25 @@ Email: yqingzhuang[at]foxmail.com
 
 #### Work Experience
 
-Algorithm Engineer, Infini-AI (无问芯穹), 2023—Present.\
-Algorithm Researcher, Megvii (旷视科技), 2019—2022.
+<div class="timeline-item">
+<span class="timeline-content">Algorithm Engineer, Infini-AI (无问芯穹)</span>
+<span class="timeline-date">2023—Present</span>
+</div>
+<div class="timeline-item">
+<span class="timeline-content">Algorithm Researcher, Megvii (旷视科技)</span>
+<span class="timeline-date">2019—2022</span>
+</div>
 
 #### Education
 
-M.S., Computer Application Technology (Image Processing), Peking University, 2016—2019.\
-B.E., Communication Engineering, Huazhong University of Science and Technology, 2012—2016.
+<div class="timeline-item">
+<span class="timeline-content">M.S., Computer Application Technology (Image Processing), Peking University</span>
+<span class="timeline-date">2016—2019</span>
+</div>
+<div class="timeline-item">
+<span class="timeline-content">B.E., Communication Engineering, Huazhong University of Science and Technology</span>
+<span class="timeline-date">2012—2016</span>
+</div>
 
 #### Research Interests
 

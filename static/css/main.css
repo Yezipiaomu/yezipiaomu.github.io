@@ -54,6 +54,25 @@ section .main-body{
     line-height: 2.4rem;
 }
 
+.timeline-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 0.3rem 0;
+}
+
+.timeline-content {
+    flex: 1;
+}
+
+.timeline-date {
+    flex-shrink: 0;
+    margin-left: 2rem;
+    text-align: right;
+    color: #555;
+    font-style: italic;
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
