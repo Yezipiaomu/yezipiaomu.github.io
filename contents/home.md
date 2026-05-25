@@ -4,6 +4,8 @@
 
 Email: yqingzhuang[at]foxmail.com
 
+[Google Scholar](https://scholar.google.com/citations?user=gRMUhbsAAAAJ&hl=en) | [GitHub](https://github.com/Yezipiaomu)
+
 #### Work Experience
 
 <div class="timeline-item">
